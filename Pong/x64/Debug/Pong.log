@@ -1,0 +1,20 @@
+﻿  main.cpp
+E:\Dev\Projects\CPP\Pong\Pong\main.cpp(12,17): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Dev\Projects\CPP\Pong\Pong\main.cpp(12,14): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+main.obj : error LNK2019: unresolved external symbol __imp_InitWindow referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_WindowShouldClose referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_SetWindowState referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_ClearBackground referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_BeginDrawing referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_EndDrawing referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_GetFrameTime referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_IsKeyPressed referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_IsKeyDown referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_DrawCircle referenced in function "public: void __cdecl Ball::Draw(void)" (?Draw@Ball@@QEAAXXZ)
+main.obj : error LNK2019: unresolved external symbol __imp_DrawRectangleRec referenced in function "public: void __cdecl Paddle::Draw(void)" (?Draw@Paddle@@QEAAXXZ)
+main.obj : error LNK2019: unresolved external symbol __imp_CheckCollisionCircleRec referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_DrawFPS referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_DrawText referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_MeasureText referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_TextFormat referenced in function main
+E:\Dev\Projects\CPP\Pong\x64\Debug\Pong.exe : fatal error LNK1120: 16 unresolved externals
